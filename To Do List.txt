@@ -1,0 +1,20 @@
+To Do List
+
+1. Login Reddit and Read post via API => Done
+2. Screenshot posts => Done
+3. Speech Synthesizer & read text out loud => Done
+  a. Work on new Speech Synthesizer voices
+4. Background video for the time being can use this => https://www.youtube.com/watch?v=n_Dv4JMiwK8 => Done
+5. Cut video and add screenshot => Done
+6. Add Audio to the video => Done
+7. download video => Done
+8. Change voices
+9.
+
+
+
+Later Stages
+1. Upload it to youtube channel
+2. Build UI Interface for this
+3. Learn MongoDB and add all data in it
+4. Code Cleanup

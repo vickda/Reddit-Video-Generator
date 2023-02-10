@@ -1,0 +1,29 @@
+{
+  "name": "reddit-create-video",
+  "version": "1.0.0",
+  "description": "this bot would create reddit-minecraft videos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon --ignore *.txt index"
+  },
+  "author": "Vicky Das",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.16",
+    "playwright": "^1.22.2",
+    "say": "^0.16.0"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "*.txt",
+      "*.mp4",
+      "*.mp3"
+    ]
+  }
+}
